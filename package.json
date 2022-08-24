@@ -34,7 +34,8 @@
     "resources/",
     "nail/plantumlnail.jar",
     "scripts/download.js",
-    "scripts/get-vizjs.js"
+    "scripts/get-vizjs.js",
+    "scripts/get-plantuml-jar.js"
   ],
   "scripts": {
     "prepublish": "node scripts/get-plantuml-jar.js",
